@@ -46,6 +46,7 @@ All models are visualized, and their test MSEs are compared in a final bar chart
 
 - `ML_Work_Sample.ipynb` — Full notebook with code, explanations, and visualizations
 - `ML_Work_Sample.pdf` — Exported version for clean viewing
+- `train.npz`, `train_100.npz`, `test.npz` — Datasets used in the analysis
 
 ---
 
